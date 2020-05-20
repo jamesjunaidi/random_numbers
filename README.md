@@ -4,8 +4,11 @@ The program prints statements telling you what to input, but I reccomend putting
 For example, on a unix system you would run it like:
 
 python random_generator.py > numbers.txt
+
 1
+
 10
+
 100
 
 There will be no statements on what you need to enter, so you have to input the min number, press enter, input the max number, press enter, and input the amount of numbers, and hit enter. This will then put the numbers into the file "numbers.txt" in the same directory.
